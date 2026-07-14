@@ -9,7 +9,12 @@ Dashboard yang dihasilkan dirancang untuk membantu stakeholder memonitor Key Per
 Catatan: Dataset yang digunakan merupakan dataset publik TheLook E-Commerce untuk tujuan pembelajaran dan pengembangan portfolio. Repository ini berfokus pada proses perancangan database, analisis SQL, pengembangan dashboard Power BI, serta penyusunan insight dan rekomendasi bisnis.
 
 ## 🎯 Tujuan Analisis
-Analisis ini dilakukan untuk memberikan gambaran menyeluruh mengenai performa bisnis TheLook E-Commerce dari berbagai aspek operasional dan komersial. Melalui pemanfaatan SQL dan Power BI, project ini bertujuan menjawab beberapa pertanyaan bisnis berikut:
+Project ini bertujuan menganalisis performa bisnis TheLook E-Commerce secara menyeluruh melalui empat area utama, yaitu Sales, Customer, Product, dan Shipping. Analisis dilakukan menggunakan SQL dan Power BI untuk menghasilkan dashboard interaktif yang dapat membantu stakeholder memantau KPI utama, mengidentifikasi peluang peningkatan performa bisnis, serta mendukung pengambilan keputusan berbasis data.
+
+Melalui analisis tersebut, dashboard ini diharapkan dapat membantu stakeholder memonitor KPI utama, mengidentifikasi peluang peningkatan performa bisnis, serta mendukung proses pengambilan keputusan yang lebih efektif dan berbasis data.
+
+## ❓ Business Questions
+Adapun beberapa pertanyaan stakeholder dari beberapa analysis yang sudah dibuat, sebagai berikut:
 
 📈 Sales Analysis
 - Bagaimana performa penjualan berdasarkan revenue, order, profit, dan Average Order Value (AOV)?
@@ -32,10 +37,6 @@ Analisis ini dilakukan untuk memberikan gambaran menyeluruh mengenai performa bi
 - Distribution center mana yang memiliki performa pengiriman terbaik?
 - Bagaimana tingkat return berdasarkan kategori, brand, dan status order?
 - Bagaimana distribusi status pesanan selama periode analisis?
-
-Melalui analisis tersebut, dashboard ini diharapkan dapat membantu stakeholder memonitor KPI utama, mengidentifikasi peluang peningkatan performa bisnis, serta mendukung proses pengambilan keputusan yang lebih efektif dan berbasis data.
-
-## ❓ Business Questions
 
 ## 🛠️ Tools & Technologies
 ## 📂 Struktur Repository
