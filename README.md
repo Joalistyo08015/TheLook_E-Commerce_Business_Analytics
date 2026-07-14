@@ -39,6 +39,18 @@ Adapun beberapa pertanyaan stakeholder dari beberapa analysis yang sudah dibuat,
 - Bagaimana distribusi status pesanan selama periode analisis?
 
 ## 🛠️ Tools & Technologies
+![MySQL](https://img.shields.io/badge/MySQL-Database%20Management%20System-blue)
+![SQL](https://img.shields.io/badge/SQL-Data%20Query%20%26%20Analysis-orange)
+![Excel](https://img.shields.io/badge/Excel-Data%20Preparation-green)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20%26%20Visualization-yellow)
+
+| **Tools** | **Fungsi** |
+|-----------|------------|
+| MySQL | Database Management System |
+| SQL | Data Query, Transformation & Analysis |
+| Microsoft Excel | Data Preparation & Initial Data Handling |
+| Power BI | Dashboard & Data Visualization |
+
 ## 📂 Struktur Repository
 ## 🔄 Alur Pengolahan Data
 ## 🗄️ Database Structure
