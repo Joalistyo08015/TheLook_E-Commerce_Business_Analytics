@@ -2,14 +2,14 @@
 ## 📌 Latar Belakang
 Perusahaan e-commerce menghasilkan ribuan hingga jutaan transaksi yang mencakup berbagai aktivitas bisnis, seperti penjualan, perilaku pelanggan, performa produk, hingga proses pengiriman. Data tersebut memiliki potensi besar untuk menghasilkan insight yang dapat mendukung pengambilan keputusan strategis. Namun, tanpa proses analisis yang terstruktur, perusahaan akan kesulitan memantau performa bisnis secara menyeluruh dan mengidentifikasi area yang perlu ditingkatkan.
 
-Project ini bertujuan membangun solusi Business Analytics end-to-end menggunakan MySQL sebagai database management system dan Power BI sebagai tools visualisasi data. Dataset TheLook E-Commerce digunakan untuk merancang relational database, melakukan analisis menggunakan SQL, serta mengembangkan dashboard interaktif yang mencakup empat area utama bisnis, yaitu Sales, Customer, Product, dan Shipping.
+Project ini bertujuan membangun solusi Business Analytics end-to-end menggunakan MySQL sebagai database management system dan Power BI sebagai tool visualisasi data. Dataset TheLook E-Commerce digunakan untuk merancang relational database, melakukan analisis menggunakan SQL, serta mengembangkan dashboard interaktif yang mencakup empat area utama bisnis, yaitu Sales, Customer, Product, dan Shipping.
 
 Dashboard yang dihasilkan dirancang untuk membantu stakeholder memonitor Key Performance Indicators (KPI), memahami tren bisnis, mengevaluasi perilaku pelanggan, mengidentifikasi performa produk, serta menilai efisiensi proses pengiriman sehingga dapat mendukung pengambilan keputusan berbasis data.
 
 Catatan: Dataset yang digunakan merupakan dataset publik TheLook E-Commerce untuk tujuan pembelajaran dan pengembangan portfolio. Repository ini berfokus pada proses perancangan database, analisis SQL, pengembangan dashboard Power BI, serta penyusunan insight dan rekomendasi bisnis.
 
 ## 🎯 Tujuan Analisis
-Project ini bertujuan menganalisis performa bisnis TheLook E-Commerce secara menyeluruh melalui empat area utama, yaitu Sales, Customer, Product, dan Shipping. Analisis dilakukan menggunakan SQL dan Power BI untuk menghasilkan dashboard interaktif yang dapat membantu stakeholder memantau KPI utama, mengidentifikasi peluang peningkatan performa bisnis, serta mendukung pengambilan keputusan berbasis data.
+Project ini bertujuan untuk menganalisis performa bisnis TheLook E-Commerce secara menyeluruh melalui 4 area utama, yaitu Sales, Customer, Product, dan Shipping. Analisis dilakukan menggunakan SQL dan Power BI untuk menghasilkan dashboard interaktif yang dapat membantu stakeholder memantau KPI utama, mengidentifikasi peluang peningkatan kinerja bisnis, serta mendukung pengambilan keputusan berbasis data.
 
 Melalui analisis tersebut, dashboard ini diharapkan dapat membantu stakeholder memonitor KPI utama, mengidentifikasi peluang peningkatan performa bisnis, serta mendukung proses pengambilan keputusan yang lebih efektif dan berbasis data.
 
@@ -29,7 +29,7 @@ Adapun beberapa pertanyaan stakeholder dari beberapa analysis yang sudah dibuat,
 
 📦 Product Analysis
 - Produk, brand, dan kategori apa yang memiliki performa terbaik?
-- Bagaimana kontribusi setiap department terhadap revenue?
+- Bagaimana kontribusi setiap departemen terhadap revenue?
 - Produk mana yang memiliki tingkat return tertinggi sehingga memerlukan evaluasi lebih lanjut?
 
 🚚 Shipping Analysis
@@ -61,7 +61,7 @@ TheLook-Ecommerce-Business-Analytics
 │   ├── Customer Dashboard.png
 │   ├── Product Dashboard.png
 │   ├── Shipping Dashboard.png
-│   └── TheLook Dashboard.pbix
+│   └── TheLook Dashboard. pbix
 │
 ├── 📁 SQL
 │   ├── 01_Create Database.sql
@@ -181,24 +181,21 @@ Project ini terdiri dari empat dashboard interaktif yang dirancang untuk memberi
 Key Performance Indicators (KPI)
 - Total Revenue
 - Total Orders
-- Total Profit
 - Average Order Value (AOV)
+- Total Profit
 
 Visualizations
-- Revenue Trend
-- Revenue by Category
-- Revenue by Brand
-- Top 10 Products by Revenue
-- Revenue by Department
+- Revenue Trend by Year & Month
+- Top 10 Revenue by Brand
+- Top 10 Revenue by Product
+- Top 10 Revenue by Category
 
 Filters
 - Year
 - Month
 - Category
 - Brand
-- Department
 
-
-## 📊 Key Insights
+## 📊 Business Insights
 ## 💡 Business Recommendations
 ## 👤 Author
