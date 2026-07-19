@@ -266,7 +266,12 @@ Dashboard Sales Analysis dirancang untuk mengevaluasi performa penjualan TheLook
 | Total Revenue                   | $579.868     |
 | Total Orders                    | 6862 Unit    |
 | Average Order Value (AOV)       | 84.50        |
-| Total Profit                    | $ 300.295.94 |
+| Total Profit                    | $ 300.295,94 |
+
+Bagian visualisasi Revenue Year & Month, dapat dilihat pada gmabr dibawah ini menunjukkan pada tahun 2019 bulan Januari merupakan Revenue terendah yaitu $2.612,44, sedangkan pada tahun 2022 bulan Mei merupakan Revenue tertinggi yaitu $1.083.206,01
+<img width="1368" height="768" alt="Revenue by Year   Month, Sales Analysis The Look" src="https://github.com/user-attachments/assets/e53fc4d6-427b-4bb6-92b2-13a27a0999b5" />
+
+
 
 ### 👥 Customer Analysis Dashboard
 Dashboard Customer Analysis digunakan untuk memahami karakteristik pelanggan berdasarkan gender, kelompok usia, lokasi geografis, dan traffic source. Selain itu, dashboard ini menampilkan informasi mengenai rata-rata pengeluaran pelanggan (Average Customer Spending) serta jumlah Repeat Customer untuk membantu mengevaluasi perilaku pelanggan dan efektivitas strategi pemasaran. Analisis ini mendukung perusahaan dalam meningkatkan retensi pelanggan serta mengoptimalkan aktivitas akuisisi pelanggan baru.
