@@ -257,6 +257,18 @@ Filters
 - Distribution Center
 
 ## 📊 Business Insights
+### 📈 Sales Analysis TheLook
+Dashboard Sales Analysis dirancang untuk mengevaluasi performa penjualan TheLook E-Commerce berdasarkan berbagai indikator utama, seperti Total Revenue, Total Orders, Average Order Value (AOV), dan Total Profit. Selain itu, dashboard ini membantu mengidentifikasi tren penjualan dari waktu ke waktu serta menganalisis kontribusi brand, kategori, dan produk terhadap revenue perusahaan. Insight yang dihasilkan dapat digunakan sebagai dasar dalam menyusun strategi penjualan, pengelolaan produk, serta pengambilan keputusan bisnis
+
+
+### 👥 Customer Analysis Dashboard
+Dashboard Customer Analysis digunakan untuk memahami karakteristik pelanggan berdasarkan gender, kelompok usia, lokasi geografis, dan traffic source. Selain itu, dashboard ini menampilkan informasi mengenai rata-rata pengeluaran pelanggan (Average Customer Spending) serta jumlah Repeat Customer untuk membantu mengevaluasi perilaku pelanggan dan efektivitas strategi pemasaran. Analisis ini mendukung perusahaan dalam meningkatkan retensi pelanggan serta mengoptimalkan aktivitas akuisisi pelanggan baru.
+
+### 📦 Product Analysis Dashboard
+Dashboard Product Analysis bertujuan untuk mengevaluasi performa produk berdasarkan produk, brand, kategori, dan departemen yang memberikan kontribusi terbesar terhadap revenue perusahaan. Selain itu, dashboard ini juga menganalisis Product Return Rate sebagai indikator kualitas produk dan kepuasan pelanggan. Insight yang diperoleh dapat dimanfaatkan untuk mendukung pengelolaan katalog produk, strategi penjualan, serta optimalisasi persediaan.
+
+### 🚚 Shipping Analysis Dashboard
+Dashboard Shipping Analysis digunakan untuk mengevaluasi performa proses pengiriman berdasarkan Average Shipping Days, Return Rate, dan Returned Orders. Selain itu, dashboard ini membantu menganalisis kinerja setiap Distribution Center, tingkat pengembalian produk berdasarkan brand dan kategori, serta distribusi status pesanan selama periode analisis. Hasil analisis dapat menjadi dasar dalam meningkatkan efisiensi operasional, mengurangi tingkat pengembalian produk, dan meningkatkan kualitas layanan kepada pelanggan.
 
 ## 💡 Business Recommendations
 ## 👤 Author
