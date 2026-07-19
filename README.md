@@ -172,10 +172,10 @@ Entity Relationship Diagram (ERD) menggambarkan hubungan antar tabel dalam datab
 > **Note:** Pada dataset TheLook, setiap order item merepresentasikan satu inventory item yang terjual, sehingga relasi antara Inventory Items dan Order Items bersifat satu-ke-satu berdasarkan data yang tersedia.
 
 
-## 📈 Dashboard Overview
+## 📊 Dashboard Overview
 Project ini terdiri dari empat dashboard interaktif yang dirancang untuk memberikan gambaran menyeluruh mengenai performa bisnis TheLook E-Commerce. Setiap dashboard berfokus pada area bisnis yang berbeda sehingga stakeholder dapat memantau KPI utama, mengevaluasi performa, serta mendukung pengambilan keputusan berbasis data.
 
-### Sales Analysis TheLook
+### 📈 Sales Analysis TheLook
 <p align="center"> <img src="Dashboard/Sales Analysis TheLook.png" width="900"> </p>
 
 Key Performance Indicators (KPI)
@@ -195,6 +195,58 @@ Filters
 - Month
 - Category
 - Brand
+
+### 👥 Customer Analysis Dashboard
+Key Performance Indicators (KPI)
+- Total Customer
+- Average Customer Spending
+- Repeat Customer
+
+Visualizations
+- Customer by Gender
+- Customer by Age Group
+- Customer by Traffic Source
+- Customer Distribution by State
+- Top 10 Customers by Spending
+
+Filters
+- Gender
+- Traffic Source
+- Country
+
+### 📦 Product Analysis Dashboard
+Key Performance Indicators (KPI)
+- Total Product
+- Total Brand
+- Total Category
+
+Visualizations
+- Top 10 Product
+- Top 10 Brands
+- Top 10 Category
+- Revenue by Department
+- Product Return Rate
+
+Filters
+- Department
+- Brand
+- Category
+
+### 🚚 Shipping Analysis Dashboard
+Key Performance Indicators (KPI)
+Average Shipping Days
+Return Rate
+Returned Orders
+Visualizations
+Shipping Days Trend
+Shipping Time by Distribution Center
+Return Rate by Category
+Return Rate by Brand
+Order Status Distribution
+Filters
+Year
+Order Status
+Distribution Center
 
 ## 📊 Business Insights
 ## 💡 Business Recommendations
