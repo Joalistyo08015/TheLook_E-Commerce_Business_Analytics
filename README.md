@@ -269,8 +269,13 @@ Dashboard Sales Analysis dirancang untuk mengevaluasi performa penjualan TheLook
 | Total Profit                    | $ 300.295,94 |
 
 Bagian visualisasi Revenue Year & Month, dapat dilihat pada gmabr dibawah ini menunjukkan pada tahun 2019 bulan Januari merupakan Revenue terendah yaitu $2.612,44, sedangkan pada tahun 2022 bulan Mei merupakan Revenue tertinggi yaitu $1.083.206,01
+
 <img width="1368" height="768" alt="Revenue by Year   Month, Sales Analysis The Look" src="https://github.com/user-attachments/assets/e53fc4d6-427b-4bb6-92b2-13a27a0999b5" />
 
+
+Selanjutnya, pada Visualisasi Top 10 Revenue by Brand terdapat Brand Calvin Klein dengan revenue terbesar, yaitu $251.280,65, dilanjutkan di urutan revenue terbesar kedua yaitu Brand Diesel dengan $197.385,50 , dan di urutan revenue terendah yaitu Brand Joe's Jeans dengan $102.971,70. 
+
+<img width="1325" height="742" alt="image" src="https://github.com/user-attachments/assets/83b5c324-49c9-48f7-a3d9-c5f753375510" />
 
 
 ### 👥 Customer Analysis Dashboard
