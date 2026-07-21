@@ -289,17 +289,25 @@ Berikutnya, Visualisasi Top 10 Revenue by Category, pada Category Outerwear & Co
 Dashboard Customer Analysis digunakan untuk memahami karakteristik pelanggan berdasarkan gender, kelompok usia, lokasi geografis, dan traffic source. Selain itu, dashboard ini menampilkan informasi mengenai rata-rata pengeluaran pelanggan (Average Customer Spending) serta jumlah Repeat Customer untuk membantu mengevaluasi perilaku pelanggan dan efektivitas strategi pemasaran. Analisis ini mendukung perusahaan dalam meningkatkan retensi pelanggan serta mengoptimalkan aktivitas akuisisi pelanggan baru.
 
 Visualisasi Customer by Gender yang menggunakan Donut Chart, memvisualisasikan customer berdasarkan jenis kelamin (Gender). Gender M merupakan jenis kelamin pria 50,04% dengan total 39.975 orang, dan Gender F merupakan jenis kelamin wanita 49,96% dengan total 39.918 orang.
+
 <img width="1542" height="742" alt="image" src="https://github.com/user-attachments/assets/637d1955-3e5f-4ed4-bf6b-05f7a09db3cb" />
 
 Visualisasi Customer by Age Group merupakan pengelompokan customer berdasarkan rentang usia. Dalam visualisasi bar chart terdapat 6 rentang usia, yaitu <20, 20-29, 30-39, 40-49, 50-59, dan 60+. Customer [ada TheLook e-commerce di dominasi oleh customer dengan rentang usia 60+ yang mencapai 2.667 orang, lalu dilanjut rentang usia 20-29 yang mencapai 2.467 orang, dan rentang usia <20 merupakan total customer terendah dengan 1.950 orang.
+
 <img width="1528" height="753" alt="image" src="https://github.com/user-attachments/assets/7e4c1531-f0ab-4f1a-a0ba-63ad3bd5e43a" />
 
 Selanjutnya, visualisasi Customer by Traffic Source merupakan aktivitas pencarian produk yang dilakukan oleh customer, seperti melalui media sosial Facebook atau melalui search engine dan lain-lain. Aktivitas Search merupakan urutan pertama dengan total aktivitas 41.357, lalu dilanjutkan dengan Organic sebanyak 8.753, dan aktivitas terendah yaitu aktivitas Display yang hanya 2.344.
+
 <img width="1362" height="725" alt="image" src="https://github.com/user-attachments/assets/f581e83b-f2c6-4ec7-96d3-9be723e2b88f" />
+
+Visualisasi Customer Distribution by State menunjukkan bahwa pelanggan berasal dari berbagai negara yang tersebar di beberapa benua, seperti Amerika Utara, Amerika Selatan, Eropa, Asia, dan Australia. Sebaran pelanggan yang luas ini mengindikasikan bahwa TheLook E-Commerce memiliki jangkauan pasar global serta potensi untuk mengembangkan strategi pemasaran yang disesuaikan dengan karakteristik masing-masing wilayah.
 
 <img width="1370" height="750" alt="image" src="https://github.com/user-attachments/assets/cfa8da68-187c-4f9f-a1cf-af4cc029bb8d" />
 
-<img width="1337" height="742" alt="image" src="https://github.com/user-attachments/assets/b071f344-c222-4f6b-8716-14de1da7c6d2" />
+Berdasarkan visualisasi Top 10 Customer Spending, Michael Smith merupakan pelanggan dengan total pengeluaran tertinggi sebesar $6,2K, disusul oleh David Smith dengan $5,8K. Posisi kesepuluh ditempati oleh Michael Davis dengan total pengeluaran $3,4K. Temuan ini menunjukkan bahwa sebagian kecil pelanggan memberikan kontribusi revenue yang lebih besar dibandingkan pelanggan lainnya, sehingga strategi retensi dan program loyalitas dapat difokuskan pada kelompok pelanggan bernilai tinggi tersebut.
+
+<img width="1482" height="742" alt="image" src="https://github.com/user-attachments/assets/4ad1a82e-e686-4cad-9fd2-83eedaea3bcf" />
+
 
 ### 📦 Product Analysis Dashboard
 Dashboard Product Analysis bertujuan untuk mengevaluasi performa produk berdasarkan produk, brand, kategori, dan departemen yang memberikan kontribusi terbesar terhadap revenue perusahaan. Selain itu, dashboard ini juga menganalisis Product Return Rate sebagai indikator kualitas produk dan kepuasan pelanggan. Insight yang diperoleh dapat dimanfaatkan untuk mendukung pengelolaan katalog produk, strategi penjualan, serta optimalisasi persediaan.
