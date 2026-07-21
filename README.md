@@ -285,8 +285,6 @@ Berikutnya, Visualisasi Top 10 Revenue by Category, pada Category Outerwear & Co
 
 <img width="1556" height="737" alt="image" src="https://github.com/user-attachments/assets/a4992acc-4c79-4fa2-b0da-5a79b3136b5d" />
 
-
-
 ### 👥 Customer Analysis Dashboard
 Dashboard Customer Analysis digunakan untuk memahami karakteristik pelanggan berdasarkan gender, kelompok usia, lokasi geografis, dan traffic source. Selain itu, dashboard ini menampilkan informasi mengenai rata-rata pengeluaran pelanggan (Average Customer Spending) serta jumlah Repeat Customer untuk membantu mengevaluasi perilaku pelanggan dan efektivitas strategi pemasaran. Analisis ini mendukung perusahaan dalam meningkatkan retensi pelanggan serta mengoptimalkan aktivitas akuisisi pelanggan baru.
 
@@ -296,7 +294,7 @@ Visualisasi Customer by Gender yang menggunakan Donut Chart, memvisualisasikan c
 Visualisasi Customer by Age Group merupakan pengelompokan customer berdasarkan rentang usia. Dalam visualisasi bar chart terdapat 6 rentang usia, yaitu <20, 20-29, 30-39, 40-49, 50-59, dan 60+. Customer [ada TheLook e-commerce di dominasi oleh customer dengan rentang usia 60+ yang mencapai 2.667 orang, lalu dilanjut rentang usia 20-29 yang mencapai 2.467 orang, dan rentang usia <20 merupakan total customer terendah dengan 1.950 orang.
 <img width="1528" height="753" alt="image" src="https://github.com/user-attachments/assets/7e4c1531-f0ab-4f1a-a0ba-63ad3bd5e43a" />
 
-Selanjutnya visualisasi Customer by Traffic Source, merupakan pencarian produk yang dilakukan oleh customer 
+Selanjutnya, visualisasi Customer by Traffic Source merupakan aktivitas pencarian produk yang dilakukan oleh customer, seperti melalui media sosial Facebook atau melalui search engine dan lain-lain. Aktivitas Search merupakan urutan pertama dengan total aktivitas 41.357, lalu dilanjutkan dengan Organic sebanyak 8.753, dan aktivitas terendah yaitu aktivitas Display yang hanya 2.344.
 <img width="1362" height="725" alt="image" src="https://github.com/user-attachments/assets/f581e83b-f2c6-4ec7-96d3-9be723e2b88f" />
 
 <img width="1370" height="750" alt="image" src="https://github.com/user-attachments/assets/cfa8da68-187c-4f9f-a1cf-af4cc029bb8d" />
