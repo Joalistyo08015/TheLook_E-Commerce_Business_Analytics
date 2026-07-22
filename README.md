@@ -336,13 +336,23 @@ Hasil tersebut menunjukkan bahwa beberapa produk memiliki tingkat pengembalian y
 ### 🚚 Shipping Analysis Dashboard
 Dashboard Shipping Analysis digunakan untuk mengevaluasi performa proses pengiriman berdasarkan Average Shipping Days, Return Rate, dan Returned Orders. Selain itu, dashboard ini membantu menganalisis kinerja setiap Distribution Center, tingkat pengembalian produk berdasarkan brand dan kategori, serta distribusi status pesanan selama periode analisis. Hasil analisis dapat menjadi dasar dalam meningkatkan efisiensi operasional, mengurangi tingkat pengembalian produk, dan meningkatkan kualitas layanan kepada pelanggan.
 
+Visualisasi Shipping Days Trend menampilkan rata-rata waktu pengiriman (Average Shipping Days) setiap bulan selama periode Januari 2019 hingga Juni 2022. Berdasarkan grafik, rata-rata waktu pengiriman cenderung stabil pada kisaran 2,4–2,6 hari setelah pertengahan tahun 2019. Waktu pengiriman tertinggi terjadi pada Februari 2019 dengan rata-rata 2,91 hari, sedangkan waktu pengiriman terendah tercatat pada Januari 2019, yaitu 2,00 hari. Setelah periode awal tersebut, fluktuasi waktu pengiriman relatif kecil sehingga menunjukkan proses distribusi yang cukup konsisten.
+
 <img width="1390" height="768" alt="Shipping Days Trend" src="https://github.com/user-attachments/assets/a31d3d2e-269c-4da4-b3ce-d54d5c2a2b96" />
+
+Visualisasi Shipping Time by Distribution Center menampilkan rata-rata waktu pengiriman berdasarkan masing-masing distribution center. Berdasarkan visualisasi, Houston, TX memiliki rata-rata waktu pengiriman paling lama, yaitu 2,53 hari, diikuti oleh Memphis, TN dan Mobile, AL yang masing-masing mencapai 2,52 hari. Sementara itu, distribution center dengan rata-rata waktu pengiriman tercepat adalah Charleston, SC, Savannah, GA, dan Port Authority of New York/New Jersey dengan rata-rata 2,48 hari. Secara keseluruhan, perbedaan waktu pengiriman antar distribution center relatif kecil, yaitu sekitar 0,05 hari.
 
 <img width="1368" height="742" alt="image" src="https://github.com/user-attachments/assets/3aa813c8-6f93-4fba-bff4-44078b895719" />
 
+Visualisasi Return Rate by Category menunjukkan tingkat pengembalian produk berdasarkan kategori. Berdasarkan visualisasi, kategori Socks & Hosiery memiliki return rate tertinggi, yaitu 75%, diikuti oleh kategori Intimates, Plus, Socks, dan Tops & Tees yang masing-masing memiliki return rate sebesar 50%. Sementara itu, kategori Accessories memiliki return rate terendah di antara sepuluh kategori yang ditampilkan, yaitu 38%.
+
 <img width="1363" height="742" alt="image" src="https://github.com/user-attachments/assets/d0c35f9d-abe9-41fe-a109-e4a97baad767" />
 
+Visualisasi Return Rate by Brand menampilkan tingkat pengembalian produk berdasarkan merek. Berdasarkan visualisasi, Islandia merupakan brand dengan return rate tertinggi, yaitu 75%. Selanjutnya, brand Candies, DeepPocket, Fashion Forms, dan Fashion Apparel masing-masing memiliki return rate sebesar 67%. Adapun brand ITC, Lily White, dan Project Ratchet memiliki return rate sebesar 60%, sehingga termasuk dalam kelompok brand dengan tingkat pengembalian yang relatif tinggi.
+
 <img width="1366" height="740" alt="image" src="https://github.com/user-attachments/assets/18416bd0-44b3-4f07-80c6-fb7af8a80050" />
+
+
 
 <img width="1456" height="737" alt="image" src="https://github.com/user-attachments/assets/37f86803-9ce1-46ed-a520-0ef0352005f1" />
 
