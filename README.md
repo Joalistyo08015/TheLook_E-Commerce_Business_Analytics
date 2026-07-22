@@ -295,9 +295,9 @@ Visualisasi Customer by Age Group merupakan pengelompokan customer berdasarkan r
 
 <img width="1670" height="757" alt="image" src="https://github.com/user-attachments/assets/7ccf65cc-9776-4a8e-8982-5ed1acad825e" />
 
-Visualisasi Customer by Age Group menunjukkan distribusi pelanggan berdasarkan enam kelompok usia, yaitu <20 tahun, 20–29 tahun, 30–39 tahun, 40–49 tahun, 50–59 tahun, dan 60+ tahun. Kelompok usia 60 tahun ke atas menjadi segmen pelanggan terbesar dengan 2.667 pelanggan, disusul oleh kelompok usia 20–29 tahun sebanyak 2.467 pelanggan. Sebaliknya, kelompok usia di bawah 20 tahun merupakan segmen dengan jumlah pelanggan paling sedikit, yaitu 1.950 pelanggan. Distribusi ini mengindikasikan bahwa TheLook E-Commerce memiliki basis pelanggan yang cukup beragam, dengan dominasi pelanggan pada kelompok usia yang lebih dewasa.
+(Revisi)
+<img width="1496" height="726" alt="image" src="https://github.com/user-attachments/assets/2336cdbe-a6da-4a64-8f92-be790cd93a06" />
 
-<img width="1362" height="725" alt="image" src="https://github.com/user-attachments/assets/f581e83b-f2c6-4ec7-96d3-9be723e2b88f" />
 
 Visualisasi Customer Distribution by State menunjukkan bahwa pelanggan berasal dari berbagai negara yang tersebar di beberapa benua, seperti Amerika Utara, Amerika Selatan, Eropa, Asia, dan Australia. Sebaran pelanggan yang luas ini mengindikasikan bahwa TheLook E-Commerce memiliki jangkauan pasar global serta potensi untuk mengembangkan strategi pemasaran yang disesuaikan dengan karakteristik masing-masing wilayah.
 
