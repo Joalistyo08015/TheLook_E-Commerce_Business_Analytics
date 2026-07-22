@@ -353,7 +353,7 @@ Visualisasi Return Rate by Brand menampilkan tingkat pengembalian produk berdasa
 
 <img width="1366" height="740" alt="image" src="https://github.com/user-attachments/assets/18416bd0-44b3-4f07-80c6-fb7af8a80050" />
 
-
+Visualisasi Order Status Distribution menampilkan distribusi status pesanan berdasarkan tahapan proses transaksi. Berdasarkan visualisasi, status Shipped mendominasi dengan total 37.654 pesanan (30,14%), diikuti oleh status Complete sebanyak 31.028 pesanan (24,84%), serta Processing sebanyak 23.948 pesanan (19,97%). Selanjutnya, status Cancelled tercatat sebanyak 18.723 pesanan (14,99%), sedangkan status Returned merupakan status dengan jumlah pesanan paling sedikit di antara lima status utama, yaitu sebanyak 12.570 pesanan (10,06%). Hasil visualisasi ini menunjukkan bahwa sebagian besar pesanan telah berhasil mencapai tahap pengiriman maupun penyelesaian transaksi, sementara sebagian lainnya masih berada pada tahap pemrosesan, dibatalkan, atau dikembalikan oleh pelanggan.
 
 <img width="1456" height="737" alt="image" src="https://github.com/user-attachments/assets/37f86803-9ce1-46ed-a520-0ef0352005f1" />
 
