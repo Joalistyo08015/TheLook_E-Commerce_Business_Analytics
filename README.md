@@ -291,9 +291,9 @@ Visualisasi Customer by Gender menunjukkan distribusi pelanggan berdasarkan jeni
 
 <img width="1542" height="742" alt="image" src="https://github.com/user-attachments/assets/637d1955-3e5f-4ed4-bf6b-05f7a09db3cb" />
 
-Visualisasi Customer by Age Group merupakan pengelompokan customer berdasarkan rentang usia. Dalam visualisasi bar chart terdapat 6 rentang usia, yaitu <20, 20-29, 30-39, 40-49, 50-59, dan 60+. Customer [ada TheLook e-commerce di dominasi oleh customer dengan rentang usia 60+ yang mencapai 2.667 orang, lalu dilanjut rentang usia 20-29 yang mencapai 2.467 orang, dan rentang usia <20 merupakan total customer terendah dengan 1.950 orang.
+Visualisasi Customer by Age Group merupakan pengelompokan customer berdasarkan rentang usia. Dalam visualisasi bar chart terdapat 6 rentang usia, yaitu <20, 20-29, 30-39, 40-49, 50-59, dan 60+. Customer TheLook e-commerce didominasi oleh customer dengan rentang usia 60+ yang mencapai 14.934 orang, lalu dilanjutkan oleh rentang usia 20-29 yang mencapai 13.603 orang, dan rentang usia <20 merupakan total customer terendah dengan 10.816 orang.
 
-<img width="1528" height="753" alt="image" src="https://github.com/user-attachments/assets/7e4c1531-f0ab-4f1a-a0ba-63ad3bd5e43a" />
+<img width="1670" height="757" alt="image" src="https://github.com/user-attachments/assets/7ccf65cc-9776-4a8e-8982-5ed1acad825e" />
 
 Visualisasi Customer by Age Group menunjukkan distribusi pelanggan berdasarkan enam kelompok usia, yaitu <20 tahun, 20–29 tahun, 30–39 tahun, 40–49 tahun, 50–59 tahun, dan 60+ tahun. Kelompok usia 60 tahun ke atas menjadi segmen pelanggan terbesar dengan 2.667 pelanggan, disusul oleh kelompok usia 20–29 tahun sebanyak 2.467 pelanggan. Sebaliknya, kelompok usia di bawah 20 tahun merupakan segmen dengan jumlah pelanggan paling sedikit, yaitu 1.950 pelanggan. Distribusi ini mengindikasikan bahwa TheLook E-Commerce memiliki basis pelanggan yang cukup beragam, dengan dominasi pelanggan pada kelompok usia yang lebih dewasa.
 
